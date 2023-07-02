@@ -1,3 +1,5 @@
-# print("I don't know what to type here")
+# I'm bored for just printing once...
+# Time for a for loop
 
-print("Some new text that I need to commit")
+for i in range(10):
+  print("yeye")
